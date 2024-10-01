@@ -1,18 +1,18 @@
 {
-    "20.0.11": {
+    "22.0.0": {
         "healthy": true,
         "supported": true,
         "healthy_error": null,
-        "location": "/home/runner/_work/catalog/catalog/stable/qbittorrent/20.0.11",
-        "last_update": "2024-05-29 12:35:14",
+        "location": "/home/runner/_work/catalog/catalog/stable/qbittorrent/22.0.0",
+        "last_update": "2024-09-30 12:35:14",
         "required_features": [
             "definitions/timezone",
             "normalize/interfaceConfiguration",
             "definitions/certificate",
             "definitions/interface"
         ],
-        "human_version": "4.6.5_20.0.11",
-        "version": "20.0.11",
+        "human_version": "5.0.0_22.0.00",
+        "version": "22.0.00",
         "chart_metadata": {
             "annotations": {
                 "truecharts.org/category": "media",
@@ -21,11 +21,11 @@
                 "truecharts.org/train": "stable"
             },
             "apiVersion": "v2",
-            "appVersion": "4.6.5",
+            "appVersion": "5.0.0",
             "dependencies": [
                 {
                     "name": "common",
-                    "version": "23.0.10",
+                    "version": "24.1.16",
                     "repository": "oci://tccr.io/truecharts",
                     "condition": "",
                     "alias": "",
