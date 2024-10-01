@@ -11,7 +11,7 @@
             "definitions/certificate",
             "definitions/interface"
         ],
-        "human_version": "4.6.7_20.0.11",
+        "human_version": "4.6.5_20.0.11",
         "version": "20.0.11",
         "chart_metadata": {
             "annotations": {
