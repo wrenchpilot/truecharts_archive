@@ -1,5 +1,5 @@
 {
-    "22.0.0": {
+    "21.1.11": {
         "healthy": true,
         "supported": true,
         "healthy_error": null,
@@ -11,8 +11,8 @@
             "definitions/certificate",
             "definitions/interface"
         ],
-        "human_version": "5.0.0_22.0.00",
-        "version": "22.0.00",
+        "human_version": "4.6.7_21.1.11",
+        "version": "21.1.11",
         "chart_metadata": {
             "annotations": {
                 "truecharts.org/category": "media",
@@ -21,7 +21,7 @@
                 "truecharts.org/train": "stable"
             },
             "apiVersion": "v2",
-            "appVersion": "5.0.0",
+            "appVersion": "4.6.7",
             "dependencies": [
                 {
                     "name": "common",
